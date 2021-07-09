@@ -1,5 +1,5 @@
 package MyJenkins-webhooks app.java;
-// Demo on github webhooks//
+
 /**
  * Hello world!
  */
